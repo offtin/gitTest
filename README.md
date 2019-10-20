@@ -1,1 +1,1 @@
-Git 스터디 짱
+Git 스터디 짱 jjang
